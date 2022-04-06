@@ -5,4 +5,13 @@
 <h1 align="center">Code Countdown Timer</h1>
 
 ### Python tip:
-There is a simple way to create a code countdown timer using the perf_counter() class from the time module. I wrote a function that demonstrates how you can use it as a performance counter for your code. perf_counter() returns how long it takes to create a list from a range using a for loop.
+There is a simple way to create a code countdown timer using the perf_counter() class from the time module. I wrote a function that demonstrates how you can use it as a performance counter for your code. 
+* perf_counter() returns how long it takes to create a list from a range using a for loop.
+
+### Prerequisites
+`Python 3`
+
+### Source Code
+```python3
+
+```
