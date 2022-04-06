@@ -15,3 +15,6 @@ There is a simple way to create a code countdown timer using the perf_counter() 
 ```python3
 
 ```
+
+## *Author Name*
+[Vikrant](https://github.com/vikrant-v28)
